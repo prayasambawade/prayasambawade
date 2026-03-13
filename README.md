@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Prayas Ambawade
 
-<!--
-**prayasambawade/prayasambawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Java | Spring Boot
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- React
+- MongoDB
+- REST APIs
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Data Structures & Algorithms
+- Full Stack Development
+
+## Projects
+- TaskForge (Task Management System)
+- React AI Agent
+
+📫 Contact: prayas4@gmail.com
