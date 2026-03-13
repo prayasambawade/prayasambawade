@@ -17,5 +17,6 @@
 ## Projects
 - TaskForge (Task Management System)
 - React AI Agent
+- Journal Application
 
-📫 Contact: prayas4@gmail.com
+📫 Contact: prayasambawade@gmail.com
