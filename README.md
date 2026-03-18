@@ -15,6 +15,7 @@
 - Full Stack Development
 
 ## Projects
+- Cloud-Cost-Analyzer
 - TaskForge (Task Management System)
 - React AI Agent
 - Journal Application
